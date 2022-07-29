@@ -1,7 +1,14 @@
+@media screen and (max-width: 688px){
+    .carousel-caption{
+        font-weight: 800;
+        color: white;
+    }
+}
 @media screen and (min-width: 689px) {
     .carousel-caption{
         padding-bottom: 15%;
         font-weight: 700;
+        color: white;
     }
     .carousel-caption h1{
         font-size: 70px;
